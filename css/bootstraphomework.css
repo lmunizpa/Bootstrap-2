@@ -1,0 +1,72 @@
+
+/* css doc */
+
+.yellow-col {
+    padding-top: 15px; 
+    padding-left: 15px;
+    text-align: left;
+}
+.brown-col {
+    padding-top: 15px;
+    padding-left: 15px;
+    text-align: left;
+}
+.card-text{
+    text-align: left;
+}
+html body{
+     .roboto-slab {
+        font-family: "Roboto Slab", serif;
+        font-optical-sizing: auto;
+        text-align:left;
+      };
+     
+}
+.nav-aria-color{
+    font-weight: bold;
+    color: antiquewhite !important;
+}
+.navbar-color {
+    background-color: cornflowerblue !important;
+}
+.nav-link{
+    color: black;
+}
+.navbar-toggler{
+    color: white;
+}
+.bold{
+    font-weight: bold;
+}
+
+.footer-blue{
+    background-color: aliceblue;
+}
+
+.btn-primary{
+    background-color: darkgoldenrod;
+    border-color:darkgoldenrod ;
+}
+.btn-primary:hover{
+    background-color: rgb(32, 50, 90);
+}
+.h1{
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.h2{
+    font-size: 30px;
+}
+.h4{
+    font-size: 25px;
+    font-weight: bold;
+}
+.prev{
+    background-color: brown;
+    block-size: 50px;
+    text-align: center;
+}
+.imgs-size{
+    max-height: 400px;
+}
